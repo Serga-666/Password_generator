@@ -1,0 +1,6 @@
+{
+    "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$SCTCNjh/K6mCQBbigiYGCg$KYtLUQPAiIORZWoRgoD7nXqaCIg4YF+h5ZFe8udhPes",
+    "master_salt": "gh5s4caBBiTSmmgVIYdJfg==",
+    "iterations": 100000,
+    "created": "2025-08-21T19:16:04.789785"
+}
